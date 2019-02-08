@@ -16,5 +16,9 @@ public class main {
             Persona Vico = new Persona("vico", "nolose");
             
             System.out.println(Vico);
+            
+            Persona Pepe = new Persona("vico", "nolose");
+            
+            System.out.println(Pepe);
     }
 }
